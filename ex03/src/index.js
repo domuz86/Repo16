@@ -7,7 +7,7 @@ class Person{
         return message; 
     }
     show(){
-        display();
+        Person.display();
     }
 
 }
